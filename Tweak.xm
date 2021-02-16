@@ -53,7 +53,7 @@ int c = 54;
 int d = 9865410;
 
 // Some math 
-int math = intUuid * a - b * c + d;
+int math = intUuid * a + b * c + d;
 
 intToString = [NSString stringWithFormat:@"%d",math];
 
