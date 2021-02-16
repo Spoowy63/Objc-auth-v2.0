@@ -101,9 +101,11 @@ exit(0);
     good.customViewColor = [UIColor blackColor];  
     good.showAnimationType = SCLAlertViewShowAnimationSlideInFromCenter; 
 
+
 if(![coolstring isEqualToString:@"flipy"]) {    
     [alert showWaiting:ID
-            subTitle:@"Copy the ID And Send It To Me. \n\nTelegram: FlipFlop7  \nMade By Spoowy"
+    // DONT CHANGE THE "Auth Made By github.com/Spoowy63" leave it like that. other stuff you can change 
+            subTitle:@"Copy the ID And Send It To Me. \n\nTelegram: FlipFlop7  \nAuth Made By github.com/Spoowy63"
               closeButtonTitle:nil
                 duration:99999999.0f];
 				}
