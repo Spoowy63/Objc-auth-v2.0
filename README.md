@@ -8,7 +8,9 @@
 2. now that youve chosen the right .xm file open it and copy everything thats inside of the file. 
 4. go to your project and paste it in your ***tweak.xm*** 
 5. if youre using it for Ted2 mod menu you have to remove everything below this green line and then paste my code below that green line. 
-<a href="https://ibb.co/nBbHCSG"><img src="https://i.ibb.co/nBbHCSG/4596-D09-A-30-E4-40-FB-A15-B-F59-B3116582-F.jpg" alt="4596-D09-A-30-E4-40-FB-A15-B-F59-B3116582-F" border="0"></a>
+
+
+<a href="https://ibb.co/nBbHCSG"><img src="https://i.ibb.co/Nrs8Szv/4596-D09-A-30-E4-40-FB-A15-B-F59-B3116582-F.jpg" alt="4596-D09-A-30-E4-40-FB-A15-B-F59-B3116582-F" width="350" height="400" border="0"></a>
 
 5. if youre using your own project just paste it wherever you want
 
