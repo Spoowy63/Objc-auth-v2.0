@@ -1,6 +1,4 @@
-
-*.mm linguist-vendored=false
-*.m linguist-vendored=false
-*.cpp linguist-vendored=false
+* linguist-language
+*.xm linguist-language=Objective-C
+* linguist-vendored
 *.py linguist-vendored=false
-*.c linguist-vendored=false
