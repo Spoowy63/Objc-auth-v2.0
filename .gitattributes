@@ -1,4 +1,2 @@
 * linguist-language
-*.xm linguist-language=Objective-C
-* linguist-vendored
-*.py linguist-vendored=true
+*.xm linguist-language=languages.Objective-C
